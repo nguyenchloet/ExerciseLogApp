@@ -9,7 +9,7 @@ My exercise notes look like this
 <strong><em>The Solution:</em></strong><br />
 A strength-focused, multi-platform exercise log application in React Native 
 
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 1.png" width="200" title="Figma Frame 1 Login View">__ 
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 1.png" height="350" title="Figma Frame 1 Login View">__ 
 <img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 1a.png" width="200" title="Figma Frame 1a Registration View">
 <br />
 <img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 2a.png" width="200" title="Figma Frame 2a New Day Root View">__ 
