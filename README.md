@@ -1,5 +1,5 @@
 # ExerciseLogApp
-## React Native Daily Exercise Log Application
+React Native Daily Exercise Log Application
 
 <strong><em>The problem:</em></strong>
 
