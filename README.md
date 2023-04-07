@@ -1,7 +1,7 @@
 # ExerciseLogApp
 React Native Daily Exercise Log Application
 
-The problem: 
+<strong><em>The problem:</em></strong>
 My exercise notes look like this
 
 
