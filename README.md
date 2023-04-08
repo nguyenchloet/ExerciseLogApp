@@ -51,4 +51,5 @@ Features:
   - tonnage 
 
 Possible Enhancements:
+- Integrate video demos
 - user weight logging & graphing
