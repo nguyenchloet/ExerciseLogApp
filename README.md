@@ -9,17 +9,17 @@ My exercise notes look like this
 <strong><em>The Solution:</em></strong><br />
 A strength-focused, multi-platform exercise log application in React Native 
 
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 1.png" height="350" title="Figma Frame 1 Login View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 1a.png" height="350" title="Figma Frame 1a Registration View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 1.png" height="350" title="Figma Frame 1 Login View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 1a.png" height="350" title="Figma Frame 1a Registration View">&emsp;
 <br />
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 2a.png" height="350" title="Figma Frame 2a New Day Root View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 2b.png" height="350" title="Figma Frame 2b Add Exercise View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 2c.png" height="350" title="Figma Frame 2c Exercise View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 2d.png" height="350" title="Figma Frame 2d Exercise Detail View">
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 2a.png" height="350" title="Figma Frame 2a New Day Root View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 2b.png" height="350" title="Figma Frame 2b Add Exercise View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 2c.png" height="350" title="Figma Frame 2c Exercise View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 2d.png" height="350" title="Figma Frame 2d Exercise Detail View">
 <br />
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 3.png" height="350" title="Figma Frame 3 Calendar View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 4.png" height="350" title="Figma Frame 4 Chart View">&emsp;
-<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/Frame 5.png" height="350" title="Figma Frame 5 Profile View">
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 3.png" height="350" title="Figma Frame 3 Calendar View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 4.png" height="350" title="Figma Frame 4 Chart View">&emsp;
+<img src="https://github.com/nguyenchloet/ExerciseLogApp/blob/main/Design/MockUps/Frame 5.png" height="350" title="Figma Frame 5 Profile View">
 
 Features:
 - secure user login and registration
